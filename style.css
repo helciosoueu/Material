@@ -14,7 +14,9 @@ header{
 }
 
 h1{
-    background-color: aqua;
+    color: rgb(245, 240, 240);
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #h-título {
